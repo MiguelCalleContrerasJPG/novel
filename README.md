@@ -14,6 +14,3 @@ ___
 ``` Java
     System.out.println("Hello Miguel");
 ```
-
-
-
